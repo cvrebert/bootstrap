@@ -23,6 +23,7 @@
     this.originalBodyPad     = null
     this.scrollbarWidth      = 0
     this.ignoreBackdropClick = false
+    this.jabberwocky         = "dingo"
 
     if (this.options.remote) {
       this.$element
